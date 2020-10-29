@@ -1,7 +1,5 @@
 def my_hash
-  your_hash = {}
-
-
+  colors = {"sky" => "blue", "grass" => "green", "sun" => "yellow"}
 end
 
 
